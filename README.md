@@ -21,11 +21,10 @@ Responsive and cross-browser compatible design.<br>
 Easy-to-use setup for rapid development.<br><br>
 
 Instructions to Run the Project Locally
+**To run this project locally, follow these steps:**<br>
 
-**To run this project locally, follow these steps:**<br><br>
-
-Clone the repository: -git clone https://github.com/getchards/My-Bike.git<br>
-Navigate to the project directory: -cd My-Bike<br>
+Clone the repository: **-git clone** https://github.com/getchards/My-Bike.git<br>
+Navigate to the project directory: **-cd My-Bike**<br>
 Install the dependencies:<br>
-Make sure you have Node.js installed, then run: -npm install<br>
-Run the development server: -npm run dev<br>
+Make sure you have Node.js installed, then run: **-npm install**<br>
+Run the development server: **-npm run dev**<br>
